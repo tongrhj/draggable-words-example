@@ -2,8 +2,6 @@ import React, { Fragment } from 'react';
 import ReactDOM from 'react-dom';
 import Draggable from 'react-draggable';
 
-import css from './index.module.css'
-
 import ANIMpng from './ANIM.png'
 import Fpng from './F.png'
 import Hpng from './H.png'
